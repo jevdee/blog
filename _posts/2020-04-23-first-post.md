@@ -7,7 +7,6 @@ tags: first
 comments: true
 ---
 
-
 # markdown
 ## markdown
 ### markdown
@@ -20,11 +19,19 @@ public static void main(String[] args) {
 }
 ```
 _이텔릭체_
+__볼드__
+___강조___
+<u>밑줄</u>
+<mark>형광펜</mark>
 
     들여쓰기를 하고 싶어요 공백으로
     들여쓰기를 하고 싶어요 탭으로
 
---------------------
+링크걸기
+[네이버](http://naver.com)
+
+--------------
+
 이제 새로운 내용
 > 인용구 일것이다.
 
@@ -59,16 +66,3 @@ akak|dkdk
 
 - 1번입니다
     - 1-1번입니다
-
---------------------
-
-# 링크걸기
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-
-
