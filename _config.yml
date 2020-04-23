@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Jevdee's blog
 tagline:          'AAA Jekyll theme'
 description:      'test'
-url:              "https://jevdee.github.io"
-baseurl:          ""
+url:              'https://jevdee.github.io'
+baseurl:          '/'
 
 author:
   name:           'Mark Otto'
