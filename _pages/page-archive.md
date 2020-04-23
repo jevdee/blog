@@ -2,11 +2,5 @@
 layout: archive
 title: "Page Archive"
 permalink: /page-archive/
-author_profile: false
+author_profile: true
 ---
-
-{% for post in site.pages %}
-  {% unless post.hidden %}
-    {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
