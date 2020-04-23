@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: single
 title: "first posting"
 categories: test
