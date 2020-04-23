@@ -6,14 +6,13 @@ categories: test
 tags: first
 comments: true
 ---
-
 # markdown
 ## markdown
 ### markdown
 **markdown**했는지 비교
 <span style='color:red'>빨간색</span>~~으로 변경~~
 
-```
+```java
 public static void main(String[] args) {
     System.out.println("hello world");
 }
