@@ -2,8 +2,8 @@
 published: true
 layout: single
 title: "first posting"
-categories: Java
-tags: first
+categories: etc
+tags: markdown
 comments: true
 ---
 
