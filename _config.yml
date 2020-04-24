@@ -96,12 +96,12 @@ author:
   name             : "JevDee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : ""
+  location         : "Republic Of Korea"
   email            : jev.deee@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jev.deee@gmail.com
+      # url: mailto:youremail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
