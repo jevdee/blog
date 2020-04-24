@@ -1,7 +1,4 @@
 main:
-  - title: "cate"
+  - title: "Categories"
     url: /categories/
-  - title: "year"
-    url: /year-archive/
-  - title: "page"
-    url: /page-archive/
+
