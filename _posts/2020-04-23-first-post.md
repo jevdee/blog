@@ -2,7 +2,7 @@
 published: true
 layout: single
 title: "first posting"
-category: Java
+categories: Java
 tags: first
 comments: true
 ---
