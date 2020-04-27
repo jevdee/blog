@@ -45,12 +45,15 @@ public LinkedHashMap(int initialCapacity,
 * accessOrder: true인 경우 접근 순서(access-order), false인 경우 삽입 순서대로 데이터 저장
 
 
+-------------------------------------------------------
+
 ## HashMap, TreeMap, LinkedHashMap 비교표
 Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java
 ![Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java.png](./assets/images/Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java.png)
 
 출처: [https://javarevisited.blogspot.com](https://javarevisited.blogspot.com/2015/08/difference-between-HashMap-vs-TreeMap-vs-LinkedHashMap-Java.html)     
       [https://www.javatpoint.com](https://www.javatpoint.com/load-factor-in-hashmap)
+
 
 ---------------------------------------------------
 
