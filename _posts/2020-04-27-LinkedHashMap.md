@@ -47,7 +47,7 @@ public LinkedHashMap(int initialCapacity,
 
 
 ## HashMap, TreeMap, LinkedHashMap 비교표
-![비교표](./assets/images/Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java.png)
+![비교표](_posts/images/2020-04-27.png)
 
 출처: [https://javarevisited.blogspot.com](https://javarevisited.blogspot.com/2015/08/difference-between-HashMap-vs-TreeMap-vs-LinkedHashMap-Java.html)     
 출처: [https://www.javatpoint.com](https://www.javatpoint.com/load-factor-in-hashmap)
