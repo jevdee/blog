@@ -45,17 +45,15 @@ public LinkedHashMap(int initialCapacity,
 * accessOrder: true인 경우 접근 순서(access-order), false인 경우 삽입 순서대로 데이터 저장
 
 
--------------------------------------------------------
 
 ## HashMap, TreeMap, LinkedHashMap 비교표
 Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java
-![Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java.png](assets/images/Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java.png)
+![Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java](./assets/images/Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java.png)
 
 출처: [https://javarevisited.blogspot.com](https://javarevisited.blogspot.com/2015/08/difference-between-HashMap-vs-TreeMap-vs-LinkedHashMap-Java.html)     
       [https://www.javatpoint.com](https://www.javatpoint.com/load-factor-in-hashmap)
 
 
----------------------------------------------------
 
 ## Leetcode 관련 문제: [링크](https://leetcode.com/problems/lru-cache/)
 Capacity가 있는 Least-Recently Used(LRU) Cache를 구현하라는 문제로, 접근 순서를 유지하는 맵인 LinkedHashMap을 사용 가능하다.    
