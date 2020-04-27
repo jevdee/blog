@@ -7,7 +7,6 @@ tags: java, hashmap, linkedhashmap
 comments: true
 ---
 
-# LinkedHashMap
 * 순서(access or insertion)를 유지하는 HashMap
 * HashMap을 상속하여 HashMap의 기능을 모두 제공 (HashMap은 Map 인터페이스 구현)
 * HashMap(버킷으로 구현)에서 순서 유지를 위한 추가 메모리 사용
