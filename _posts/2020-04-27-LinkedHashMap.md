@@ -48,17 +48,17 @@ public LinkedHashMap(int initialCapacity,
 
 ## HashMap, TreeMap, LinkedHashMap 비교표
 Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java
-![Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java.png](./assets/images/)
+![Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java.png](./assets/images/Difference between HashMap, TreeMap, LinkedHashMap and hashtable in Java.png)
 
-출처: [https://javarevisited.blogspot.com](https://javarevisited.blogspot.com/2015/08/difference-between-HashMap-vs-TreeMap-vs-LinkedHashMap-Java.html)
+출처: [https://javarevisited.blogspot.com](https://javarevisited.blogspot.com/2015/08/difference-between-HashMap-vs-TreeMap-vs-LinkedHashMap-Java.html)     
       [https://www.javatpoint.com](https://www.javatpoint.com/load-factor-in-hashmap)
 
 ---------------------------------------------------
 
 ## Leetcode 관련 문제: [링크](https://leetcode.com/problems/lru-cache/)
-Capacity가 있는 Least-Recently Used(LRU) Cache를 구현하라는 문제로, 접근 순서를 유지하는 맵인 LinkedHashMap을 사용 가능하다.
-LinkedHashMap을 초기화할 때 accessOrder를 true로 사용하면 접근 순서를 유지할 수 있으며, 
-Capacity가 다 찼을 경우 removeEldestEntry() 함수를 통해 put()시 map에 입력된 엔트리 중 가장 오래된 엔트리를 삭제할 수 있다.
+Capacity가 있는 Least-Recently Used(LRU) Cache를 구현하라는 문제로, 접근 순서를 유지하는 맵인 LinkedHashMap을 사용 가능하다.    
+LinkedHashMap을 초기화할 때 accessOrder를 true로 사용하면 접근 순서를 유지할 수 있으며,     
+Capacity가 다 찼을 경우 removeEldestEntry() 함수를 통해 put()시 map에 입력된 엔트리 중 가장 오래된 엔트리를 삭제할 수 있다.    
 
 ```java
 @Override
