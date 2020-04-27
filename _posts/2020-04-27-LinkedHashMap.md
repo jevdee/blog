@@ -47,7 +47,7 @@ public LinkedHashMap(int initialCapacity,
 
 
 ## HashMap, TreeMap, LinkedHashMap 비교표
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/a.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/2020-04-27.png)
 
 
 출처: [https://javarevisited.blogspot.com](https://javarevisited.blogspot.com/2015/08/difference-between-HashMap-vs-TreeMap-vs-LinkedHashMap-Java.html)     
